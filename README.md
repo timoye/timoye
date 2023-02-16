@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I am Tim and this my stack is
+
+Tech Stacks: PHP/Laravel, Javascript/Vuejs, jQuery
+
+Databases: MySQL, MSSQL, SQLite, Redis
+
+Reporting: Metabase, 
+
+Infrastructure: Azure, Heroku, Forge, Digital Ocean, AWS
+
+Industry: Logistics, Procurement, Finance, HR, Health
+
+🔭 I’m currently working on [ProcureProcess](procureprocess.com)
+
 <!--
 **timoye/timoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
