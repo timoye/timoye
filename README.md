@@ -1,5 +1,19 @@
+<div id="badges">
+  <a href="https://www.linkedin.com/in/timothy-soladoye">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/timoyesina">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ### Hi there 👋
 
+
+### :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timoye&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 😃: Tim
 I am Tim and this my stack is
 
 Tech Stacks: PHP/Laravel, Javascript/Vuejs, jQuery
