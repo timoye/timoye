@@ -14,7 +14,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timoye&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### 😃: Tim
-I am Tim and this my stack is
+I am Tim and my stack is
 
 Tech Stacks: PHP/Laravel, Javascript/Vuejs, jQuery
 
