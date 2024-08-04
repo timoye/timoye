@@ -20,7 +20,7 @@ Tech Stacks: PHP/Laravel, Javascript/Vuejs, jQuery
 
 Databases: MySQL, MSSQL, SQLite, Redis
 
-Reporting: Metabase, 
+Reporting: Metabase
 
 Infrastructure: Azure, Heroku, Forge, Digital Ocean, AWS
 
