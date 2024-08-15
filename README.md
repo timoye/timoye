@@ -16,7 +16,7 @@
 ### 😃: Tim
 I am Tim and my stack is
 
-Tech Stacks: PHP/Laravel, Javascript/Vuejs, jQuery
+Tech Stacks: PHP/Laravel, Javascript/Vuejs, jQuery, GoLang
 
 Databases: MySQL, MSSQL, SQLite, Redis
 
