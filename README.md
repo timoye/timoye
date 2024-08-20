@@ -7,7 +7,7 @@
   </a>
 </div>
 
-### Hi there 👋
+### Hi there. 👋
 
 
 ### :fire: My Stats
