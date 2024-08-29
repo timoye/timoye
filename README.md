@@ -10,7 +10,7 @@
 ### Hi there. 👋
 
 
-Find my [portfolio here](timoye.crd.co)
+Find my [portfolio here](https://timoye.crd.co)
 
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timoye&theme=dark&hide_border=true)](https://git.io/streak-stats)
