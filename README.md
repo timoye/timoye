@@ -7,7 +7,7 @@
   </a>
 </div>
 
-### Hi there. 👋
+### Hi there. 👋  
 
 
 Find my [portfolio here](https://timoye.crd.co)
