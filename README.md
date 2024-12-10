@@ -26,7 +26,7 @@ Reporting: Metabase
 
 Infrastructure: Azure, Heroku, Forge, Digital Ocean, AWS
 
-Industry: Logistics, Procurement, Finance, HR, Health, Agriculture, Trademark
+Industry: Logistics, Procurement, Finance, HR, Health, Agriculture, Trademark, Communication
 
 🔭 I’m currently coding and running [Agroye](https://agroye.com) and [ProcureProcess](https://procureprocess.com)
 
