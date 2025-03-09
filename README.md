@@ -16,7 +16,7 @@ Find my [portfolio here](https://timoye.crd.co)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timoye&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### 😃: Tim
-I am Tim, I am a Product Manager with Technical Experience
+I am Tim, I am a Software Engineer
 
 Tech Stacks: PHP/Laravel, Javascript/Vuejs, jQuery, GoLang
 
